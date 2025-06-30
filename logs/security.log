@@ -1,0 +1,2 @@
+WARNING 2025-06-22 13:33:26,379 views Product creation errors: {'description': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+WARNING 2025-06-22 13:56:37,766 views Product creation errors: {'description': [ErrorDetail(string='This field may not be blank.', code='blank')]}
